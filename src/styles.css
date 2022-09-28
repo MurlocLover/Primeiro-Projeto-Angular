@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+/* Configuração Global do CSS */
+
+* {
+    margin: 1px;
+    padding: 1px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+a {
+    color: yellow;
+}
+
+body {
+    padding-bottom: 500px;
+}
+
+.class {
+    border-bottom: 1px solid red;
+    padding: 2em;
+    margin-bottom: 1em;
+}

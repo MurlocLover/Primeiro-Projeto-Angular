@@ -1,0 +1,11 @@
+/* Configuração Scoped que serve apenas pro Component */
+
+.title {
+    background: rgba(71, 221, 91, 0.74);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+p {
+    padding: 5px;
+}
